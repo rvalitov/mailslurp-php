@@ -133,5 +133,11 @@ Class | Method | HTTP request | Description
  All endpoints do not require authorization.
 
 
+# Generation from Swagger
+If you want to generate the original code from Swagger, use the following commands:
 
+```bash
+wget http://central.maven.org/maven2/io/swagger/swagger-codegen-cli/2.3.1/swagger-codegen-cli-2.3.1.jar -O swagger-codegen-cli.jar
+java -jar .\swagger-codegen-cli.jar generate -i https://api.mailslurp.com/v2/api-docs -l php -o ./out
+```
 
