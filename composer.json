@@ -1,14 +1,15 @@
 {
   "name": "rvalitov/mailslurp-php",
-  "description": "MailSlurp PHP SDK",
+  "description": "MailSlurp PHP SDK for testing emails.",
   "keywords": [
     "mailslurp",
     "php",
     "sdk",
-    "api"
+    "api",
+    "email"
   ],
   "homepage": "https://github.com/rvalitov/mailslurp-php",
-  "license": "GPL-3.0-only",
+  "license": "ISC",
   "authors": [
     {
       "name": "Ramil Valitov",
