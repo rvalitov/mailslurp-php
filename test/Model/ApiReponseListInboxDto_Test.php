@@ -39,7 +39,7 @@ namespace Swagger\Client;
  * @author      Swagger Codegen team
  * @link        https://github.com/swagger-api/swagger-codegen
  */
-class ApiReponseListInboxDto_Test extends \PHPUnit_Framework_TestCase
+class ApiReponseListInboxDto_Test extends \PHPUnit\Framework\TestCase
 {
 
     /**
