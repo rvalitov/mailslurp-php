@@ -1,3 +1,7 @@
+**⚠️ The MailSlurp has now official PHP client, use it https://packagist.org/packages/mailslurp/mailslurp-client-php**
+
+**So this repository is archived.**
+
 ![API Version](https://img.shields.io/badge/API-v0.0.1-green.svg?style=flat) ![PHP](https://img.shields.io/badge/PHP-7.0--7.2-green.svg?style=flat)
 
 # MailSlurp-PHP
